@@ -1,6 +1,6 @@
-# fast-service
+# :file_folder: Event Manager Front-End
 
-> A Vue.js project
+> Gerenciador de eventos
 
 ## Build Setup
 
